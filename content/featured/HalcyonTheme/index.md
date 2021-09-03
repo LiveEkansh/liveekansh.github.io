@@ -2,7 +2,7 @@
 date: '1'
 title: 'Wavy bot'
 cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
+github: 'https://github.com/bchiang7/LiveEkansh'
 tech:
   - VS Code
   - Java Script
@@ -10,4 +10,4 @@ tech:
   - iTerm2
 ---
 
-A multipurpose bot with more than 100 commands. Fun , images , moderation , just name it! Memes? The bot collects one of the top hottest memes from the internet! [Invite](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode) it now and join our gang :D
+A multipurpose bot with more than 100 commands. Fun , images , moderation , just name it! Memes? The bot collects one of the top hottest memes from the internet! [Invite](https://dsc.gg/waving) it now and join our gang :D
