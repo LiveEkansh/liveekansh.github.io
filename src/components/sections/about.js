@@ -144,7 +144,7 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I've had the privilege of having{' '}
-              <a href="https://discord.gg/fRBq3N3ZT2">a discord server</a>,{' '}
+              <a href="https://discord.gg/fRBq3N3ZT2">a Discord server</a>,{' '}
               <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
@@ -154,7 +154,7 @@ const About = () => {
             <p>
               I also am planning to build a spotify themer like {' '}
               <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
+                spicetify
               </a>{' '}
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
