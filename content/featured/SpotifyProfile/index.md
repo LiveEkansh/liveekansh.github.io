@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Wavy Music'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/bchiang7/LiveEkansh'
 tech:
-  - React
-  - Styled Components
+  - VS code
+  - Java Script
   - Express
   - Spotify API
   - Heroku
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Where words fail, music speaks. Our cute bugcat capoo WAVY has become a DJ! Play , pause , queue , shuffle , loop and more than 40 music commands and filters! [Invite Wavy Music](https://dsc.gg/wavymusic) to your servers now! Join our [support server](https://discord.gg/RFkgPvRY2e) for bugs and issues.
