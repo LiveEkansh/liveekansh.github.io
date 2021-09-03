@@ -66,8 +66,6 @@ const Hero = () => {
       <p>
         Computers have been keeping me awake for as long as I can remember.
         It all started with a Windows 7, 486DX, 1GB RAM, and 1024MB HDD.
-        </a>
-        .
       </p>
     </>
   );
