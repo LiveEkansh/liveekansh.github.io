@@ -139,7 +139,7 @@ const About = () => {
               Hello! My name is Ekansh and I enjoy creating things that live on the internet. My
               interest in web development started back in 2020 when the pandemic started.
               All institutions closed and all i had was my pc and the internet. So i started programming!
-              From discord bots to websites , this pandemic did help me in learning :)
+              From discord bots to websites , this pandemic did help me in learning!
             </p>
 
             <p>
