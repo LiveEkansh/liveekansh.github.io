@@ -10,4 +10,4 @@ tech:
   - iTerm2
 ---
 
-A multipurpose bot with more than 100 commands. Fun , images , moderation , just name it! Memes? The bot collects one of the top hottest memes from the internet! [Invite](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode)it now and join our gang :D. 
+A multipurpose bot with more than 100 commands. Fun , images , moderation , just name it! Memes? The bot collects one of the top hottest memes from the internet! [Invite](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode) it now and join our gang :D
