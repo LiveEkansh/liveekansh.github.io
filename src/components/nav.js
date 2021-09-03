@@ -173,8 +173,8 @@ const Nav = ({ isHome }) => {
   );
 
   const ResumeLink = (
-    <a className="resume-button" href="/resume.pdf" target="_blank" rel="noopener noreferrer">
-      Resume
+    <a className="resume-button" href="https://discord.gg/fRBq3N3ZT2" target="_blank" rel="noopener noreferrer">
+      Community
     </a>
   );
 
