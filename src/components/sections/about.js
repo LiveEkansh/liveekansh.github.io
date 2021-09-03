@@ -159,6 +159,11 @@ const About = () => {
               that covers everything you need to build a web app with the Spotify API using Node
               &amp; React.
             </p>
+             
+              <p>
+                 When I'm not in front of my computer, I'm probably studying ,playing games or football with friends,
+                 or crossing off another item on my bucket list.      
+               </p>
 
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
