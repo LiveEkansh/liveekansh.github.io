@@ -4,23 +4,23 @@ module.exports = {
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
+      url: 'https://github.com/LiveEkansh',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://www.instagram.com/not._.liveekansh/',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://twitter.com/EkanshLive',
     },
     {
-      name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      name: 'Discord',
+      url: 'https://discord.gg/fRBq3N3ZT2',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Youtube',
+      url: 'https://www.youtube.com/channel/UCS6t-VigVblKcHhjdtBnE4w',
     },
   ],
 
@@ -44,7 +44,7 @@ module.exports = {
   ],
 
   colors: {
-    green: '#64ffda',
+    red: '#f21f1f',
     navy: '#0a192f',
     darkNavy: '#020c1b',
   },
