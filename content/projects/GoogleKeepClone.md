@@ -1,12 +1,12 @@
 ---
 date: '2018-12-29'
-title: 'Google Keep Clone'
-github: 'https://github.com/bchiang7/google-keep-vue-firebase'
-external: 'https://keep-vue.netlify.com/'
+title: 'url-shortener'
+github: 'https://github.com/LiveEkansh/url-shortener'
+external: ''
 tech:
-  - Vue
-  - Firebase
+  - Java Script
+  - Vs Code
 showInProjects: true
 ---
 
-A simple Google Keep clone built with Vue and Firebase.
+A url shortener better than tinyurl and bit.ly
