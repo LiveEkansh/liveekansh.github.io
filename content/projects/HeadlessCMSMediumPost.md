@@ -1,15 +1,15 @@
 ---
 date: '2019-11-12'
-title: 'Building a Headless Mobile App CMS From Scratch'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/building-a-headless-mobile-app-cms-from-scratch-bab2d17744d9'
+title: 'Welcomer Bot'
+github: 'https://github.com/LiveEkansh/welcome-bot'
+external: ''
 tech:
-  - Node
+  - Java Script
   - Express
-  - Firebase
-  - Vue
+  - Github
+  - Vs Code
 company: 'Upstatement'
 showInProjects: true
 ---
 
-Find out how we built a custom headless CMS with Node, Express, and Firebase for a project at Upstatement
+A simple yet beautiful welcomer bot built with Discord.js in Vs code
