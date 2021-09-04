@@ -1,7 +1,7 @@
 ---
 date: '2019-07-15'
 title: 'OctoProfile'
-github: 'https://github.com/bchiang7/octoprofile'
+github: 'https://github.com/LiveEkansh/octoprofile'
 external: 'https://octoprofile.now.sh'
 tech:
   - Next.js
