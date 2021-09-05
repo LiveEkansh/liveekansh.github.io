@@ -1,12 +1,11 @@
 ---
 date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+title: 'Student'
+company: '99Games'
+location: 'India'
+range: 'December 2020 - Present'
+url: 'https://www.99games.in/'
 ---
 
-- Engineered and maintained major features of Starry's customer-facing web app using ES6, Handlebars, Backbone, Marionette and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with Starry Station
-- Interfaced with user experience designers and other developers to ensure thoughtful and coherent user experiences across Starry’s iOS and Android mobile apps
+- Just attended lectures of motivation in game developing in India
+- Developed a mobile game which is [free 2 play](https://www.99games.in/modules/games/star-chef2/star-chef2.html) on playstore
