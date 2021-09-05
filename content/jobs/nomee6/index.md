@@ -1,7 +1,7 @@
 ---
 date: '2020-12-21'
-title: 'NoMee6'
-company: ''
+title: 'Developer'
+company: 'Nomee6'
 location: ''
 range: 'October-December 2020'
 url: 'https://www.alternativestomee6.com/'
