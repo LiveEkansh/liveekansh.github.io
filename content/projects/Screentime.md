@@ -9,7 +9,7 @@ tech:
   - Gatsy-browser
   - Netlify
 company: ''
-showInProjects: true
+showInProjects: false
 ---
 
 This website is open-source , you can use it if u want to :)
